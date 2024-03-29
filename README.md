@@ -10,14 +10,14 @@ TI-83|1.02|Emulated
 
 # Screenshots
 
-![screenshot](screenshot000.png)<br>
+![screenshot](screenshots/screenshot000.png)<br>
 Start screen
 # 
-![screenshot](screenshot001.png)<br>
+![screenshot](screenshots/screenshot001.png)<br>
 Time input screen
 # 
-![screenshot](screenshot002.png)<br>
+![screenshot](screenshots/screenshot002.png)<br>
 Output unit select screen
 # 
-![screenshot](screenshot003.png)<br>
+![screenshot](screenshots/screenshot003.png)<br>
 Output screen
