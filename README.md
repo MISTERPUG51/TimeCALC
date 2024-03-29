@@ -6,3 +6,8 @@ TimeCALC was tested on the following hardware:
 :-----:|:-----:|:-----:
 TI-82|19|Real
 TI-83|1.02|Emulated
+
+![screenshot](screenshot000.png)
+![screenshot](screenshot001.png)
+![screenshot](screenshot002.png)
+![screenshot](screenshot003.png)
