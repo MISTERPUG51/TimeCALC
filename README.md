@@ -12,7 +12,7 @@ TI-83|1.02|Emulated
 # Files
 #### TimeCALC 82/83
 TimeCALC program (701 Bytes)<br>
-[Download](TimeCACL82-83.8xp)
+[Download](TimeCALC82-83.8xp)
 #### TimeCALC 82/83 Lite
 Stripped down version of TimeCALC 82/83. Use this version if you are low on calculator memory. (399 Bytes)<br>
 [Download](timecalc-lite-82-83.8xp)
