@@ -1,4 +1,7 @@
 # License
+
+This software is provided "as-is". I am not responsible for any damage that may occur because of this software.
+
 You may modify and redistribute any part of this program only if:
 1. You do not sell it.
 2. You do not claim it as your own work.
